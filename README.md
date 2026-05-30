@@ -19,14 +19,14 @@ Life OS is an Android app that gamifies personal development. Every action you t
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/NOMDUTONFICHIER1.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER2.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
-  <img src="screenshots/NOMDUTONFICHIER3.png" width="200"/>
+  <img src="Screenshot_20260530_112948.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_112957.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113010.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113101.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113109.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113116.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113123.jpg.jpeg" width="200"/>
+  <img src="Screenshot_20260530_113130.jpg.jpeg" width="200"/>
 </p>
 
 ## Tech Stack
